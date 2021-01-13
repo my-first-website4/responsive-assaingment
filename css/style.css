@@ -1,0 +1,36 @@
+.my-bg-cl{
+    background-color: beige;
+    border: none;
+    
+}
+body{
+
+    background-color: lightblue;
+}
+
+.my-tx-col-y{
+    color: coral;
+}
+
+.my-tx-col-b{
+    color:darkmagenta;
+}
+
+.card{
+    border: none;
+}
+
+.card-footer{
+    border: none;
+}
+
+.hight{
+    height: 100%;
+}
+
+.hight-px{
+    height: 500px;
+}
+.bd{
+
+    height: 9em;
